@@ -1,2 +1,2 @@
-print("welcome")
-print("how do you do")
+print("welcome;")
+print("how do you do;")
