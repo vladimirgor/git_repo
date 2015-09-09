@@ -1,0 +1,2 @@
+print("my name is Vladimir")
+print("jast call me Vlad, please")
