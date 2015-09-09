@@ -1,0 +1,2 @@
+print("goodbye world")
+print("goodbye my love, goodbye")
